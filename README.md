@@ -16,9 +16,9 @@
 
 1. [Product canon](docs/00_PROJECT_CANON.md): what is approved vs open.
 2. [GrillMe traceability](docs/01_GRILLME_TRACEABILITY.md): design decisions and their original ADR ranges (full originals remain in private project storage).
-3. [World design](docs/world/WORLD_AND_CITYFORGE.md) and [asset policy](docs/art/ASSET_POLICY.md).
-4. [Physics and gameplay](docs/engineering/PHYSICS_CONTRACT.md), [character and animation](docs/character/CHARACTER_ANIMATION.md), [vehicles](docs/vehicles/VEHICLE_SIMCADE.md).
-5. [Roadmap](docs/ROADMAP.md), [agent roles](docs/agents/AGENT_ROLES.md), [Claude instructions](CLAUDE.md) and [contributing rules](AGENTS.md).
+3. [World design](docs/world/CITYFORGE.md) and [asset policy](docs/art/ASSET_AND_LICENSES.md).
+4. [Physics and gameplay](docs/engineering/PHYSICS.md), [character and animation](docs/character/ANIMATION_AND_CAMERA.md), [vehicles](docs/vehicles/SIMCADE.md).
+5. [Roadmap](docs/ROADMAP.md), [agent roles](docs/agents/AGENT_TEAM_AND_TOOLS.md), [Claude instructions](CLAUDE.md) and [contributing rules](AGENTS.md).
 
 ## Repository boundary
 
