@@ -1,0 +1,15 @@
+* text=auto
+*.gd text eol=lf
+*.tscn text eol=lf
+*.tres text eol=lf
+*.godot text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.glb binary
+*.blend binary
+*.png binary
+*.jpg binary
+*.webp binary
+*.ogg binary
+*.wav binary
+# Git LFS deliberately not enabled; approve quota/cost before importing large assets.

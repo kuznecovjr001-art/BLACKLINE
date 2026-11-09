@@ -1,0 +1,17 @@
+.godot/
+.import/
+.env
+.env.*
+secrets/
+data/raw/
+third_party/raw/
+assets/vendor_unreviewed/
+.mono/
+__pycache__/
+.DS_Store
+Thumbs.db
+builds/
+exports/
+*.blend1
+*.blend2
+*.log
